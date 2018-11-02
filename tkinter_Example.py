@@ -1,7 +1,10 @@
+# Import dependencies
 import cv2
 import numpy as np
 from tkinter import *
 from tkinter import messagebox
+
+# Initialize x and y variables
 x=0
 y=0
 
